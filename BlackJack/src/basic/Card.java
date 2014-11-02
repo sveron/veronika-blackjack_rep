@@ -15,6 +15,7 @@ private int value;
 
 @Override
 public String toString() {
+	System.out.println("A am an expert");
 	return "Card [suit=" + suit + ", value=" + value + "]";
 }
 
