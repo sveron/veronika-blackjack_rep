@@ -1,5 +1,5 @@
 package basic;
 
-public class Suit {
-
+public enum Suit {
+  DIAMONDS, HEARTS, SPADES, CLUBS
 }
